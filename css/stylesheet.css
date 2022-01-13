@@ -14,6 +14,14 @@ ul{
     padding-left: 20px;
 }
 
+table{
+    border: none;
+}
+
+thead{
+    background-color: rgb(19, 118, 231);
+}
+
 #sfondo-ripetuto{
     width: 100%;
     height: 170px;
@@ -27,8 +35,13 @@ ul{
     left: 20px;
 }
 
+
 .resize-margin{
     margin-top: 0px;
     margin-bottom: 0px;
     color: grey;
+}
+
+.back-color{
+    background-color: cyan;
 }
