@@ -22,6 +22,11 @@ thead{
     background-color: rgb(19, 118, 231);
 }
 
+th{
+    width: 200px;
+    text-align: left;
+}
+
 #sfondo-ripetuto{
     width: 100%;
     height: 170px;
@@ -35,6 +40,11 @@ thead{
     left: 20px;
 }
 
+#row-width{
+    width: 200px;
+    height: auto;
+}
+
 
 .resize-margin{
     margin-top: 0px;
@@ -44,4 +54,8 @@ thead{
 
 .back-color{
     background-color: cyan;
+}
+
+.mod-width{
+    width: 600px;
 }
