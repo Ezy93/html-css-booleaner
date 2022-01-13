@@ -46,6 +46,8 @@ th{
 }
 
 
+
+
 .resize-margin{
     margin-top: 0px;
     margin-bottom: 0px;
@@ -58,4 +60,18 @@ th{
 
 .mod-width{
     width: 600px;
+}
+
+.sfondo1{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 520px;
+    height: 400px;
+}
+
+.sfondo2{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 520px;
+    height: 400px;
 }
